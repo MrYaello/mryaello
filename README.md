@@ -4,16 +4,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 <div id="badges" align="center">
  <a href="https://www.instagram.com/yaelspren/">
-    <img src="https://img.shields.io/badge/Instagram-BC59FD?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-BC59FD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/@yaello5187">
+  <a href="https://www.youtube.com/@mryaello">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.facebook.com/yaelspren">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://codepen.io/MrYaello">
-    <img src="https://img.shields.io/badge/Codepen-45C476?style=for-the-badge&logo=codepen&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Codepen-45C476?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=MrYaello&style=for-the-badge&color=red" alt=""/>
