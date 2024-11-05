@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@mryaello">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
- <a href="https://codepen.io/MrYaello">
+ <a href="https://buymeacoffee.com/mryaello">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
  </a>
   <a href="https://www.facebook.com/yaelspren">
